@@ -44,24 +44,19 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
-  <!-- Matplotlib -->
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
   </a>
-  <!-- dbt -->
   <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/36312338?s=200&v=4" alt="dbt" width="40" height="40"/>
   </a>
-  <!-- Power BI -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
+    <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg?raw=true" alt="powerbi" width="40" height="40"/>
   </a>
-  <!-- PySpark -->
   <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40"/>
   </a>
-  <!-- Snowflake -->
   <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/6/6b/Snowflake_Logo.png" alt="snowflake" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/snowflake-1.svg" alt="snowflake" width="40" height="40"/>
   </a>
 </p>
