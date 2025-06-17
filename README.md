@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently a work-study student at the **Data Scientest engineering school**, in collaboration with **Les Mines de Paris**.
 
-- 🌱 I’m currently learning **clustering methods**
+- 🌱 I'm currently working on a **project about webscraping on Google Maps (Selenium)**.
 
 - 📫 How to reach me **merwan.inge@gmail.com**
 
