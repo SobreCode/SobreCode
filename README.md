@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SobreCode</h1>
-<h3 align="center">A passionate, self-taught Data Engineer from France</h3>
+<h3 align="center">A passionate Data Engineer from France</h3>
 
 - 🔭 I'm currently a work-study student at the **Data Scientest engineering school**, in collaboration with **Les Mines de Paris**.
 
