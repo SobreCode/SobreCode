@@ -3,7 +3,8 @@
 
 - 🔭 I'm currently a work-study student at the **Data Scientest engineering school**, in collaboration with **Les Mines de Paris**.
 
-- 🌱 I'm currently working on a **project about webscraping on Google Maps (Selenium)**.
+- 🌱 I am currently working on an **academic project that involves web scraping data from Trustpilot and Google Maps**.
+     The objective is to build a system that gathers and analyzes customer feedback to uncover the most common issues and sources of dissatisfaction among bank customers, and to recommend improvements based on these insights.
 
 - 📫 How to reach me **merwan.inge@gmail.com**
 
